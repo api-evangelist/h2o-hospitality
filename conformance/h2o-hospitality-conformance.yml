@@ -1,0 +1,18 @@
+generated: '2026-07-19'
+method: searched
+source: https://h2ohospitality.io/en/
+note: >-
+  H2O Hospitality publishes no public API, OpenAPI, or developer portal. The
+  only cross-cutting compliance posture the provider publishes is its
+  information-security certification, displayed on the corporate marketing site.
+standards:
+  - id: iso-27001
+    name: ISO/IEC 27001 Information Security Management
+    conforms: true
+    evidence: "Homepage states 'ISO 27001 certified (2023)'"
+    source: https://h2ohospitality.io/en/
+  - id: iso-27701
+    name: ISO/IEC 27701 Privacy Information Management
+    conforms: true
+    evidence: "Homepage states 'ISO 27701 certified (2023)'"
+    source: https://h2ohospitality.io/en/
